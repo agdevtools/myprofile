@@ -32,7 +32,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 'npm run deploy'
+### `npm run deploy`
 This deploys the build (yourchanges) to github pages where you can view it:
 
 https://agdevtools.github.io/myprofile/
